@@ -1,2 +1,2 @@
-# hecto
-landing page for Hecto.
+# HECTO - WEBSITE
+Landing page for Hecto.
